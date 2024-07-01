@@ -1,2 +1,4 @@
 nginx
 kasmweb/nginx:1.25.3
+openjdk:8-jre
+java:21-anolis
